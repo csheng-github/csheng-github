@@ -15,9 +15,11 @@
   </a>
 </p>
 
-<a href="https://github.com/csheng-github/vue-element-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csheng-github&repo=vue-element-admin" />
-</a>
-<a href="https://github.com/csheng-github/vue-admin-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csheng-github&repo=vue-admin-template" />
-</a>
+<p>
+  <a href="https://github.com/csheng-github/vue-element-admin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csheng-github&repo=vue-element-admin" />
+  </a>
+  <a href="https://github.com/csheng-github/vue-admin-template">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csheng-github&repo=vue-admin-template" />
+  </a>
+</p>
