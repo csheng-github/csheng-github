@@ -14,7 +14,7 @@
   <img align="center" src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" />
 </div>
 
-<div style="padding: 10px"></div>
+<hr/>
 
 <!-- GitHub 统计卡片 -->
 ![](https://github-readme-stats.vercel.app/api?username=csheng-github&count_private=true&show_icons=true&theme=radical)
